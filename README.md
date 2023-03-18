@@ -5,7 +5,13 @@
 
 Model: Linear Regression.
 
-Convergence Analysis: Two different learning rate ($\gamma$) gives drastically different converegence.
+### Data Visualization: PairPlot and Correlation plot
+
+![alt text](https://github.com/108mk/Gradient_Descent/blob/646054004bb1605f50e99aff1e73f803e71577fb/demo-image/pair-plot.png)
+
+![alt text](https://github.com/108mk/Gradient_Descent/blob/646054004bb1605f50e99aff1e73f803e71577fb/demo-image/gradient-descent_performance.png)
+
+### Convergence Analysis: Two different learning rate ($\gamma$) gives drastically different converegence.
 
 With $\gamma$ = 0.1 (Trial learning rate.)
 
